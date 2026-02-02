@@ -39,5 +39,7 @@ $g3=5;
 
 </table>
 </tr>
+<h3>screenshot</h3>
+<img src="Screenshot.png" alt = "My Screenshot" width="auto">
 </body>
 </html>
